@@ -1,0 +1,1 @@
+//this will be the code that runs on the server hooked up to the arduino taking in requests from the website, website code will be in a different folder
